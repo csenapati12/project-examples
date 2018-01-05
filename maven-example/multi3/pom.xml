@@ -12,7 +12,7 @@
     <name>Multi 3</name>
 
     <dependencies>
-        <!-- depends on another project (should include transitive) -->
+        <!-- depends on another project (should include transitive) --TEstingggggggggggggggg>
         <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>multi1</artifactId>
